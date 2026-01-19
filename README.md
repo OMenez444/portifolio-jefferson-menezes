@@ -1,16 +1,101 @@
-# React + Vite
+# 💼 Portfólio – Jefferson Menezes dos Santos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Portfólio profissional desenvolvido em **React + Vite**, criado para apresentar meus projetos e habilidades como **Desenvolvedor Web & Mobile**, com forte integração entre **desenvolvimento de software, redes e telecomunicações**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👨‍💻 Sobre mim
 
-## React Compiler
+Sou **Desenvolvedor Web & Mobile**, com experiência prática em **ReactJS** e **Flutter**, atuando no desenvolvimento de **landing pages, websites e aplicações mobile**.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Possuo sólida base em **infraestrutura e telecom**, com experiência em:
+- **MikroTik (nível avançado)**
+- **Starlink**
+- **Repetidores de sinal de telefonia celular**
+- Estruturação, análise e monitoramento de redes
 
-## Expanding the ESLint configuration
+Esse perfil híbrido me permite desenvolver soluções completas, **do link à aplicação**.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Tecnologias Utilizadas
+
+### 💻 Desenvolvimento Web
+- ReactJS  
+- JavaScript  
+- HTML5  
+- CSS3  
+- Vite  
+
+### 📱 Desenvolvimento Mobile
+- Flutter  
+- Dart  
+
+### 🌐 Redes & Telecomunicações
+- MikroTik (Avançado)  
+- TCP/IP  
+- DNS  
+- Firewall  
+- Starlink  
+- Repetidor de sinal celular  
+
+---
+
+## 📂 Projetos
+
+### 🔹 Landing Page Comercial (React)
+Landing page responsiva com foco em conversão, componentização e boas práticas de front-end.
+
+**Tecnologias:** React, HTML, CSS, JavaScript
+
+---
+
+### 🔹 Painel de Monitoramento (React)
+Aplicação web simulando um painel de monitoramento, alinhada ao meu histórico em redes e telecom.
+
+**Tecnologias:** React, JavaScript
+
+---
+
+### 🔹 Aplicação Mobile (Flutter)
+Aplicativo mobile desenvolvido em Flutter, focado em arquitetura básica, navegação e layout responsivo.
+
+**Tecnologias:** Flutter, Dart
+
+---
+
+## ▶️ Como executar o projeto localmente
+
+### Pré-requisitos
+- Node.js (versão 18 ou superior)
+- npm ou yarn
+
+### Passos
+
+```bash
+# Clonar o repositório
+git clone https://github.com/OMenez444/portifolio-jefferson-menezes.git
+
+# Entrar na pasta do projeto
+cd portifolio-jefferson-menezes
+
+# Instalar as dependências
+npm install
+
+# Executar o projeto
+npm run dev
+O projeto será executado em:
+
+http://localhost:5173
+
+📫 Contato
+
+Email: jefferson.santos.smsti@outlook.com
+
+GitHub: https://github.com/OMenez444
+
+📌 Status do Projeto
+
+🚧 Em desenvolvimento — novos projetos e melhorias serão adicionados continuamente.
+
+Desenvolvido por Jefferson Menezes dos Santos 🚀
