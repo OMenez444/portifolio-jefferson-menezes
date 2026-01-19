@@ -90,7 +90,7 @@ http://localhost:5173
 
 📫 Contato
 
-Email: jefferson.santos.smsti@outlook.com
+Email: jeffersonbala31@gmail.com
 
 GitHub: https://github.com/OMenez444
 
